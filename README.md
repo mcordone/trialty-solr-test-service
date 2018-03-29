@@ -1,0 +1,1 @@
+# trialty-solr-test-service
